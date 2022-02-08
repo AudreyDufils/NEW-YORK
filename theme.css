@@ -1,0 +1,96 @@
+@font-face {
+    font-family: 'Courgette-Regular';
+    src: url('fonts/Courgette-Regular.ttf');
+}
+
+:root{
+     scroll-behavior: smooth;
+}
+
+.global{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size : 18px;
+    color : #444;
+    background-color : #fff;
+    max-width : 980px;
+    margin : auto;
+}
+
+.blockheader{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.blockfooter{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    font-size:14px;
+}
+
+.logo1{
+    width:50px;
+}
+
+li a{
+    text-decoration:none;
+    color: #003884;
+}
+
+h1{
+    font-family: 'Courgette-Regular';
+    font-size:40px;
+    color : #003884;
+    text-align:center;
+}
+
+h2{
+    font-family: 'Courgette-Regular';
+    font-size:35px;
+    color : #4f89b9;
+    text-align:center;
+}
+
+h3{
+    font-family: 'Courgette-Regular';
+    font-size:25px;
+    color : #003884;
+    text-align:center;
+}
+
+nav{
+    font-family: 'Courgette-Regular';
+    color : #003884;
+    text-align: left;
+}
+
+.citation{
+    font-family: 'Courgette-Regular';
+    color : #003884;
+    background-color:#d7e1ef;
+    font-size:25px;
+}
+
+.nomsimone{
+    font-size:16px;
+}
+
+.imagedroite{
+    float:right;
+    padding-left:10px;
+}
+
+.imagegauche{
+    float:left;
+    padding-right:10px;
+}
+
+.gras{
+     color : #003884;
+}
+
+.italic{
+     color : #003884;
+     font-weight:500;
+}
